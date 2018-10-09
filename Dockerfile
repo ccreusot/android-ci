@@ -1,5 +1,5 @@
 FROM ubuntu:18.04
-LABEL maintainer="Javier Santos"
+LABEL maintainer="Cedric Creusot"
 
 ENV VERSION_SDK_TOOLS "4333796"
 
